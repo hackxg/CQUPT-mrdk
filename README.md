@@ -135,6 +135,6 @@ timestamp为时间戳
 
 We重邮2021 小程序进行信息录入(打卡需要绑定openid)
 
-[Link](https://www.longm.top/index.php/archives/55/)
+[Link:https://www.longm.top/index.php/archives/55/](https://www.longm.top/index.php/archives/55/)
 
 
