@@ -133,7 +133,7 @@ timestamp为时间戳
 ## 最后附上白嫖党使用方式
 微信搜索
 
-We重邮2021 小程序进行信息录入(打卡需要绑定openid)
+We重邮2021 小程序进行信息录入
 
 [Link:https://www.longm.top/index.php/archives/55/](https://www.longm.top/index.php/archives/55/)
 
