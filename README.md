@@ -96,8 +96,18 @@ module.exports = {
 mrdkkey则等于 r[20]+u[12]=fCmnhYxa
 timestamp为时间戳
 编写好后通过base64加密塞入key中post请求即可
+## 如果你想部署在自己的的服务器上
+准备工作：
+1.编写一个脚本 根据你的喜好 带参发送post请求即可
+2.当你能够准确的伪造数据包并进行加密
+3.获取openid 或者 跟题主一样 伪造openid
+（openid是微信官方对用户与公众号或小程序直接的某个唯一标识）
+注意不同的公众号、用户的openid是不同的
+提示：伪造openid的方法伪造 code短码（几乎不可能）伪造encryptedData（可能成功）用户绑定时上传openid伪造过程（成功）
+4.发送报文
 
 ## 最后附上白嫖党使用方式
 微信搜索
 We重邮2021 小程序进行信息录入(打卡需要绑定openid)
 [Link](https://www.longm.top/index.php/archives/55/)
+
