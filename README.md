@@ -3,7 +3,7 @@
 因为疫情的变化 WE重邮再次开启了打卡模式
 这里记录今天分析结果最后会附上使用方式
 
-###如果你只是想白嫖那就直接扫码吧
+### 如果你只是想白嫖那就直接扫码吧
 
 ![image](https://raw.github.com/hackxg/CQUPT-mrdk/blob/master/QRcode.png)
 
