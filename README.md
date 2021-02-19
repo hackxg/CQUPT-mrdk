@@ -5,7 +5,7 @@
 
 ### 如果你只是想白嫖那就直接扫码吧
 
-![Image text](https://raw.github.com/hackxg/CQUPT-mrdk/blob/master/QRcode.png)
+![QRcode](https://raw.github.com/hackxg/CQUPT-mrdk/blob/master/QRcode.png)
 
 ### 1.反编译小程序包
 
