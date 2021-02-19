@@ -2,7 +2,8 @@
 ## CQUPT-每日打卡
 因为疫情的变化 WE重邮再次开启了打卡模式
 这里记录今天分析结果最后会附上使用方式
-
+###如果你只是想白嫖那就直接扫码吧
+![image](https://github.com/hackxg/CQUPT-mrdk/blob/master/QRcode.png)
 ### 1.反编译小程序包
 
 在去年6月过后we重邮小程序子包分离（we重邮编写代码过于冗余）
